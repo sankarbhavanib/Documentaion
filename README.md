@@ -5,5 +5,6 @@ http://codebeautify.org/
 
 http://www.pic2icon.com/format-converter.php
 
-tree ( install using NPM ) will give folder structure in unix box
+tree <Folder name> ( install using NPM , this will give folder structure in unix box $ sudo apt-get install tree)
 
+http://www.truiton.com/2015/04/android-action-bar-dialog-using-toolbar/    ( to get tab control example in android)
