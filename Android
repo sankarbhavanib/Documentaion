@@ -2,8 +2,8 @@ http://www.truiton.com/2015/06/android-tabs-example-fragments-viewpager/  ( to g
 http://www.truiton.com/2015/04/android-action-bar-dialog-using-toolbar/     (working ) 
 
 http://simpledeveloper.com/how-to-communicate-between-fragments-and-activities/ ( not much luck , app is not getting downloaded )
-http://infobloggall.com/2014/06/22/communication-between-activity-and-fragments/
-http://techblogon.com/communication-between-activity-and-fragment-example/ 
+http://infobloggall.com/2014/06/22/communication-between-activity-and-fragments/ ( not good , not has option to copy code , need to retype
+http://techblogon.com/communication-between-activity-and-fragment-example/    ( working - but need to add menu/activity_main.xml and strings.xml values) 
 
 
 http://developer.android.com/training/basics/fragments/communicating.html
