@@ -1,4 +1,5 @@
 run from your downloads folder 
+chmod 400 bhavani.pem
 ssh -i "bhavani.pem" ec2-user@ec2-52-38-92-225.us-west-2.compute.amazonaws.com
 
 $sudo yum update -y
