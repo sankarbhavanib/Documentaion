@@ -1,0 +1,6 @@
+run from your downloads folder 
+ssh -i "bhavani.pem" ec2-user@ec2-52-38-92-225.us-west-2.compute.amazonaws.com
+
+$sudo yum update -y
+$sudo yum install -y httpd   ( to install httpd.apache.org )
+$sudo service httpd start
