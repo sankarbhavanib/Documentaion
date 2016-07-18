@@ -25,4 +25,11 @@ Browser Based IDE ( to get devlopment envirment)
 https://www.nitrous.io/
 https://c9.io/
 
+IDE 
+RubyMine 
+
+To lean rails 
+http://guides.rubyonrails.org/
+
+
 
