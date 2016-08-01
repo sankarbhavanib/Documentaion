@@ -27,6 +27,8 @@ https://zeroturnaround.com/software/jrebel-for-android/
 https://get.fabric.io/?locale=en-us
 
 
+Google UI automator Samples :```https://github.com/googlesamples/android-testing```
+
 
 
 
