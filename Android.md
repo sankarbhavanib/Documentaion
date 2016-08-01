@@ -31,6 +31,7 @@ Google UI automator Samples :https://github.com/googlesamples/android-testing
 ```
 to List the emulators $ emulator -list-avds
 to Launch emaulator $ emulator @<name of the emulator Nexus_7_API_23>
+to Launch appiuem $ open ./Applications/Appium.app
 ```
 
 
