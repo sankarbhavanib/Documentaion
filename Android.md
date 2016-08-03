@@ -26,8 +26,14 @@ https://zeroturnaround.com/software/jrebel-for-android/
 
 https://get.fabric.io/?locale=en-us
 
+Google UI Samples Documnetaion:https://developer.android.com/training/testing/ui-testing/index.html
+Google UI Samples source code :https://github.com/googlesamples/android-testing
 
-Google UI automator Samples :https://github.com/googlesamples/android-testing
+
+Espresso: single app UI automation , more relaiable 
+UI automator : multiple apps UI automation 
+
+
 ```
 to List the emulators $ emulator -list-avds
 to Launch emaulator $ emulator @<name of the emulator Nexus_7_API_23>
