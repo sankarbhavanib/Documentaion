@@ -25,11 +25,11 @@ https://github.com/GoogleChrome/custom-tabs-client
 https://zeroturnaround.com/software/jrebel-for-android/
 
 https://get.fabric.io/?locale=en-us
-
+```
 Google UI Samples Documnetaion:https://developer.android.com/training/testing/ui-testing/index.html
 Google UI Samples source code :https://github.com/googlesamples/android-testing
 Android UI automation herlper repo :https://github.com/lkorth/device-automator
-
+```
 Espresso: single app UI automation , more relaiable 
 UI automator : multiple apps UI automation 
 
