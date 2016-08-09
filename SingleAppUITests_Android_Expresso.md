@@ -47,7 +47,6 @@ public class OTCBrowserTest {
     public ActivityTestRule<MainOtcSampleAppActivity> mActivityRule = new ActivityTestRule<>(
             MainOtcSampleAppActivity.class);
 
-    @Test(timeout = 60000)
     public void BrowserConsent() throws InterruptedException {
         TestHelper.selectSpinner(R.id.server_spinner, "mock");
         onView(withId(R.id.consentButton)).perform(scrollTo());
@@ -62,10 +61,6 @@ public class OTCBrowserTest {
         onDevice(withContentDescription("Agree")).perform(AutomatorAction.click());
         onView(withId(R.id.textViewResultStatus)).perform(scrollTo());
         onView(withId(R.id.textViewResultStatus)).check(matches(withText("CONSENT success")));
-
     }
-
-
-
 }
 ```
