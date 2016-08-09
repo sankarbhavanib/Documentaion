@@ -1,5 +1,26 @@
 https://en.wikipedia.org/wiki/Android_version_history
 
+```
+Google UI Samples Documnetaion:https://developer.android.com/training/testing/ui-testing/index.html
+Google UI Samples source code :https://github.com/googlesamples/android-testing
+Android UI automation herlper repo :https://github.com/lkorth/device-automator
+To run tests with out UI/devise with all devise capabulities :http://robolectric.org/
+```
+Espresso: single app UI automation , more relaiable 
+UI automator : multiple apps UI automation 
+
+
+```
+to list all devises $ adb devices
+to List the emulators $ emulator -list-avds
+to Launch emaulator $ emulator @<name of the emulator Nexus_7_API_23>
+to Launch appiuem $ open ./Applications/Appium.app
+```
+
+http://www.vysor.io/     : allows you share your mobile into your computer 
+
+
+
 Android Launcher icons
 https://romannurik.github.io/AndroidAssetStudio/index.html
 https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.space.trim=1&foreground.space.pad=0&foreColor=607d8b%2C0&crop=0&backgroundShape=square&backColor=ffffff%2C100&effects=none
@@ -25,24 +46,6 @@ https://github.com/GoogleChrome/custom-tabs-client
 https://zeroturnaround.com/software/jrebel-for-android/
 
 https://get.fabric.io/?locale=en-us
-```
-Google UI Samples Documnetaion:https://developer.android.com/training/testing/ui-testing/index.html
-Google UI Samples source code :https://github.com/googlesamples/android-testing
-Android UI automation herlper repo :https://github.com/lkorth/device-automator
-To run tests with out UI/devise with all devise capabulities :http://robolectric.org/
-```
-Espresso: single app UI automation , more relaiable 
-UI automator : multiple apps UI automation 
-
-
-```
-to list all devises $ adb devices
-to List the emulators $ emulator -list-avds
-to Launch emaulator $ emulator @<name of the emulator Nexus_7_API_23>
-to Launch appiuem $ open ./Applications/Appium.app
-```
-
-http://www.vysor.io/     : allows you share your mobile into your computer 
 
 
 
