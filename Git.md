@@ -1,3 +1,7 @@
+### to set up alias for git commands 
+https://github.com/robbyrussell/oh-my-zsh/blob/7fabc8bca4/plugins/git/git.plugin.zsh
+
+
 ### To config the configurations
 ```
 vim .git/config   
@@ -25,8 +29,9 @@ $ git branch -r     will give you remove branches
 $ git branch        will give you local branches 
 
 git commit --amend   ( to update the commit message )
-to merger (force merge commits) 
-————
+```
+###To merger (force merge commits) 
+```
 step1 : git rebase -i HEAD~2
 step2 : add “s” infant of coming you want to squash and save 
 step3 : add # informant of commit message you want to keep and save the file 
