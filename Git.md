@@ -1,4 +1,4 @@
-### to set up alias for git commands 
+### To set up alias for git commands 
 https://github.com/robbyrussell/oh-my-zsh/blob/7fabc8bca4/plugins/git/git.plugin.zsh
 
 
