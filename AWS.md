@@ -7,7 +7,7 @@ $sudo yum install -y httpd   ( to install httpd.apache.org )
 $sudo service httpd start D3vT00lsR0cks
 ```
 
-## to work on docker 
+## To work on docker 
 ```
 docker-machine ls                            ( to find out the docker machine name , in this case default)
 docker-machine start default               (default   is my stage name , replace your stage name)
