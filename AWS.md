@@ -1,4 +1,4 @@
-##  To work on AWS box run from your downloads folder 
+##  To work on AWS box run from your downloads(wheere your downloaded *.pem file) folder 
 ```
 chmod 400 bhavani.pem
 ssh -i "bhavani.pem" ec2-user@ec2-52-38-92-225.us-west-2.compute.amazonaws.com
