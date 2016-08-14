@@ -8,6 +8,7 @@ To run tests with out UI/devise with all devise capabulities :http://robolectric
 ```
 Espresso: single app UI automation , more relaiable 
 UI automator : multiple apps UI automation 
+UI automation tool other option : https://experitest.com/
 
 
 ```
