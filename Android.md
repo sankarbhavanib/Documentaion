@@ -5,13 +5,11 @@ Google UI Samples Documnetaion:https://developer.android.com/training/testing/ui
 Google UI Samples source code :https://github.com/googlesamples/android-testing
 Android UI automation herlper repo :https://github.com/lkorth/device-automator
 To run tests with out UI/devise with all devise capabulities :http://robolectric.org/
-```
+
 Espresso: single app UI automation , more relaiable 
 UI automator : multiple apps UI automation 
 UI automation tool other option : https://experitest.com/
 
-
-```
 to list all devises $ adb devices
 to List the emulators $ emulator -list-avds
 to Launch emaulator $ emulator @<name of the emulator Nexus_7_API_23>
