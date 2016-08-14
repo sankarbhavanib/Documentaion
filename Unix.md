@@ -1,12 +1,12 @@
 VIM CHCH : http://vim.rtorr.com/
 
 Unix commands
-
+```
 to check the stage load  : $ top 
 to check the users logged  in and process running : $w
 to check the free space  : $ free
 to check the disks available,free spaces or mounted : df
-
+```
 copy files from local mac to server 
 MyMac $ >  scp someFile someUser@someServer:/somePath/someFile
 
