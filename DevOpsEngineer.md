@@ -1,9 +1,10 @@
-## Requrements
-AWS
+## Topics 
 
-Knowledge of CI & CD is mandatory
+Experienced with AWS systems 
 
-Experience with Configuration Management in Puppet, Chef, or CF Engine
+Experienced with CI & CD (cointinius integration and continous deployment) 
 
-Knowledge of dockers/containers,micro service/kafka/mesos/marathon
+Experienced with Configuration Management in Puppet, Chef, or CF Engine
+
+Experienced with dockers/containers,micro service/kafka/mesos/marathon
 
