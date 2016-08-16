@@ -3,6 +3,7 @@
 VIM CHCH : http://vim.rtorr.com/
 
 http://career.guru99.com/top-50-unix-interview-questions/
+http://www.linuxtechi.com/experience-linux-admin-interview-questions/
 
 Unix commands
 ```
