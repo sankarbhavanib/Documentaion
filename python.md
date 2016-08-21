@@ -2,6 +2,7 @@
 ##FAQ
 http://career.guru99.com/top-25-python-interview-questions/
 http://www.tutorialspoint.com/python/string_replace.htm
+http://www.tutorialspoint.com/postgresql/index.htm
 
 ## From tech bus safari ( Sample Project for refarence )
 https://github.com/DevTeam-TheOpenBastion/int-py-notes
