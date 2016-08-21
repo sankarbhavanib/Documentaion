@@ -14,3 +14,11 @@ https://www.python.org/doc/
 http://www.tutorialspoint.com/python/index.htm
 
 
+
+## Reques 
+
+Familiarity with event-driven programming in Python is a plus
+Hands-on experience developing an application using a Python web framework such as Django is required
+Expertise in developing and deploying low-latency, scalable, and highly available applications on AWS is required.
+3+ years developing server-side applications on Linux using Python.
+
