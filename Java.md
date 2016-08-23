@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=QXo8bCv1BiQ
 ## Inteview
 http://www.javatpoint.com/corejava-interview-questions
 
-## ToDO
-need to practice logging framework (log4J)
+## logging
+https://www.mkyong.com/logging/log4j-hello-world-example/
 
 
