@@ -27,4 +27,10 @@ http://www.javatpoint.com/corejava-interview-questions
 ## logging
 https://www.mkyong.com/logging/log4j-hello-world-example/
 
+## Practice 
+
+https://www.hackerrank.com/domains?h_r=hrw&h_v=default
+
+
+
 
