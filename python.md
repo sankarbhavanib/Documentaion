@@ -11,6 +11,11 @@ http://www.tutorialspoint.com/python/string_replace.htm
 
 http://career.guru99.com/top-25-python-interview-questions/
 
+## Testing framework 
+
+https://github.com/openstack/opencafe
+
+
 ## Recq 
 ```
 Familiarity with event-driven programming in Python.
