@@ -21,6 +21,7 @@ https://www.udemy.com/spring-mvc-tutorial-for-beginners-step-by-step/?couponCode
 
 
 
+
 ## Inteview
 
 https://www.youtube.com/watch?v=njZ48YVkei0
@@ -34,6 +35,8 @@ https://www.youtube.com/user/javaboynavin
 https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK
 
 http://www.javatpoint.com/corejava-interview-questions
+
+http://www.java2novice.com/
 
 ## logging
 https://www.mkyong.com/logging/log4j-hello-world-example/
