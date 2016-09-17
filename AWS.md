@@ -1,3 +1,11 @@
+
+## To Learn 
+
+for AWS :https://www.youtube.com/watch?v=2KcZgdsuMto
+
+for chanel for dev ops tools :https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ
+
+
 ##  To work on AWS box run from your downloads(wheere your downloaded *.pem file) folder 
 ```
 chmod 400 bhavani.pem
