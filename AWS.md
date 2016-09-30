@@ -3,6 +3,9 @@
 
 for AWS :https://www.youtube.com/watch?v=2KcZgdsuMto
 
+https://www.youtube.com/watch?v=dvmssHHBnII
+
+
 for chanel for dev ops tools :https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ
 
 
