@@ -7,6 +7,9 @@ http://www.tutorialspoint.com/postgresql/index.htm
 https://www.youtube.com/watch?v=7Vtl2WggqOg
 
 http://www.dofactory.com/sql/tutorial
+http://www.tutorialspoint.com/sql/sql_tutorial.pdf
+http://www.sqlcourse.com/select.html
+
 
 ### Standard SQL question 
 
